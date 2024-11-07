@@ -1,0 +1,76 @@
+name = "SUMO Scheduler"
+description = "SUMO Scheduler provides online appointment, event, and course scheduling applications."
+slug = "sumo-scheduler"
+hostnames = [ "sumoscheduler.com" ]
+sources = [ "https://www.sumoscheduler.com/privacy-policy" ]
+contributors = [ "maximbelyakov" ]
+
+[rubric.behavioral-marketing]
+value = "yes-opt-out"
+citations = [
+  "Subject to your opt-out preferences, we may also use third-party advertisers, ad networks, and other advertising, marketing, and promotional companies, to serve advertisements on our Website."
+]
+
+[rubric.security]
+value = "yes"
+notes = [
+  "We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal data."
+]
+
+[rubric.third-party-collection]
+value = "yes"
+citations = [
+  "We collect information about you directly from you and automatically through your use of our Website. We may combine information automatically collected with other information that we have collected about you including from publicly available sources."
+]
+
+[rubric.history]
+value = "last-modified"
+notes = [ "The policy lists the date it was last modified (in this case, May 25, 2018)." ]
+
+[rubric.data-deletion]
+value = "yes-contact"
+citations = [
+  "If you would like to make a request, cancel your account or request we delete or no longer use your account information to provide you our Website, contact us at support@sumoscheduler.com."
+]
+
+[rubric.data-breaches]
+value = "no"
+notes = [
+  "There is no mention of a data breach notification in either the privacy policy or SUMO's security page."
+]
+
+[rubric.third-party-access]
+value = "yes-unspecified"
+citations = [
+  "We may share information we collect about you, including Personal Data, in the following ways:\n\nWith third-party Service Providers, agents, contractors, or government entities."
+]
+
+[rubric.data-collection-reasoning]
+value = "yes"
+citations = [
+  "We may use information that we collect about you, including Personal Data, to:\n\n- Provide the SUMO Service. We will use your information to provide our Website to you; including facilitating scheduling; managing your account; responding to your inquiries; and for other customer service and support purposes."
+]
+
+[rubric.noncritical-purposes]
+value = "opt-out-some"
+citations = [
+  "Subject to your opt-out preferences, we may also use third-party advertisers, ad networks, and other advertising, marketing, and promotional companies, to serve advertisements on our Website."
+]
+
+[rubric.law-enforcement]
+value = "reasonable"
+citations = [
+  "We may use your information to comply with applicable legal or regulatory obligations, including complying with requests from law enforcement or other governmental authorities, or in legal proceedings involving SUMO."
+]
+
+[rubric.list-collected]
+value = "generally"
+citations = [
+  "SUMO collects the following information, either directly from SUMO Users, Invitees, or Viewers, or through third-parties regarding Users, Invitees, or Viewers."
+]
+
+[rubric.revision-notify]
+value = "no"
+citations = [
+  "If any changes are made, we’ll post them on this page, so please be sure to check back periodically. If you continue to use SUMO after those changes are in effect, you agree to the revised Notice."
+]
